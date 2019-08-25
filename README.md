@@ -16,9 +16,7 @@ SHA512
 
 
 Usage: hash-cat.py -s <hash>
-  
-  OR
-  
+            OR
 Usage: hash-cat.py -f /root/hashes.txt
 
 
