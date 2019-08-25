@@ -15,5 +15,10 @@ SHA384
 SHA512
 
 
-Usage: 
-sdfgsfgsdfgsd
+Usage: hash-cat.py -s <hash>
+  
+  OR
+  
+Usage: hash-cat.py -f /root/hashes.txt
+
+
