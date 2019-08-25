@@ -15,7 +15,7 @@ SHA384
 SHA512
 
 
-Usage: hash-cat.py -s <hash>
+Usage: hash-cat.py -s [hash]
            
            
             
